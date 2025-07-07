@@ -3,6 +3,7 @@
 [![Live Site](https://img.shields.io/badge/Live_Site-https://chukchuk.vercel.app/-blue?style=flat-square)](https://chukchuk.vercel.app/)
 
 ChukChuk is a web application that provides real-time information about Indian Railway trains, schedules, and fare calculations.
+![image](https://github.com/user-attachments/assets/10f6e919-bf99-42be-9cfe-776c5a162f98)
 
 ## Features
 - Train schedule lookup
